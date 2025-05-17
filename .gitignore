@@ -1,0 +1,10 @@
+# .gitignore
+cotacao.db
+cotacao.txt
+*.log
+*.exe
+*.out
+*.test
+vendor/
+.idea/
+.DS_Store
